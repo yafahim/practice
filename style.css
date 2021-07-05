@@ -1,0 +1,35 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+   width: 50%;
+   padding-left: 3%;
+
+}
+.half-width img{
+    width: 70%;
+}
+.time{
+    display: flex;
+}
+.buttom-link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
